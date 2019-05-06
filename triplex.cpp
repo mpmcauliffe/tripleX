@@ -1,7 +1,7 @@
 
 /**
- * 
- * 
+ * Simple math game . . .
+ *      if you get the wrong answer you die
  **/
 
 #include <iostream>;
